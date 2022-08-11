@@ -3,7 +3,7 @@
 > Tradingview watchlist for Binance Futures, Binance Spot, FTX Futures , FTX spot , Kucoin , Gate.io ,Okex , huobi and Coinbase
 
 
-I use Tradingview and I like to quickly click through all coins on a particular exchange. **The files below can be imported into a Tradingview watchlist.**
+**The files below can be imported into a Tradingview watchlist.**
 
 > 	★	★	★ **If you use these, leave a comment or a star above**	★	★	★
 
