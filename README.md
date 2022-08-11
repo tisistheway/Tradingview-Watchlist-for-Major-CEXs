@@ -1,4 +1,4 @@
-# Tradiongview-Watchlist-Import-Files-for-Crypto-CEXs
+# Tradingview-Watchlist-Import-Files-for-Crypto-CEXs
 
 > Tradingview watchlist for Binance Futures, Binance Spot, FTX Futures , FTX spot , Kucoin , Gate.io ,Okex , huobi and Coinbase
 
